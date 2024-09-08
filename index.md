@@ -12,7 +12,7 @@ Além disso, para qualquer progresso a informação é tudo. E minha cabeça em 
 
 Então é melhor guardar o máximo de informação possível né?
 
-$ \frac{1}{1} $
+$$ \frac{1}{1} $$
 
 
 
