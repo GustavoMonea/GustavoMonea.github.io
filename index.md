@@ -12,7 +12,7 @@ Além disso, para qualquer progresso a informação é tudo. E minha cabeça em 
 
 Então é melhor guardar o máximo de informação possível né?
 
-<!--$$ H(X) = - \sum_{i=1}^{n} p(x_i) \log_2 p(x_i) $$-->
+<!--H(X) = - \sum_{i=1}^{n} p(x_i) \log_2 p(x_i)-->
 
 
 
