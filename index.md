@@ -4,9 +4,13 @@ layout: default
 
 <!--#Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-<center> Olá, fiz o seguinte blog para guardar as anotações de aula, em conjunto com alguns projetos no meu GitHub. Faz anos que elaboro algoritmos, faço dataviz, além dos materiais a respeito de varias disciplinas que sou docente. Basicamente, estou fazendo um backup do meu conhecimento na internet. 
+<center> Olá, fiz o seguinte blog para guardar as anotações de aula, em conjunto com alguns projetos no meu GitHub. Faz anos que elaboro algoritmos, faço dataviz, além dos materiais a respeito de varias disciplinas que sou docente. Basicamente, estou fazendo um backup do meu conhecimento na internet. </center>
 
-Além disso, para qualquer progresso a informação é tudo. E minha cabeça em alguns momentos, tem a mesma resposta padrão do computador Multivac no conto de **Isaac Isamov** _"The Last Question"_ a respeito da **entropia**. </center> 
+&NewLine;
+
+<center> Além disso, para qualquer progresso a informação é tudo. E minha cabeça em alguns momentos, tem a mesma resposta padrão do computador Multivac no conto de **Isaac Isamov** _"The Last Question"_ a respeito da **entropia**. </center>
+
+&NewLine;
 
 - **Estou sem dados suficientes para uma resposta significativa.**
 
