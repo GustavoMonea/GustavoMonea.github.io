@@ -2,11 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--#Text can be **bold**, _italic_, or ~~strikethrough~~.-->
+
+Olá, fiz o seguinte blog para guardar as anotações de aula, em conjunto com alguns projetos no meu GitHub.  
+
+Faz anos que elaboro algoritmos, faço dataviz, além dos materiais a respeito de varias disciplinas que sou docente. 
+
+Basicamente, estou fazendo um backup do meu conhecimento na internet. 
+
+Além disso, para qualquer progresso a informação é tudo. 
+
+E minha cabeça em alguns momentos, tem a mesma resposta padrão do computador Multivac no conto de **Isaac Isamov** _"The Last Question"_ a respeito da **entropia**. 
+
+- **Estou sem dados suficientes para uma resposta significativa.**
+
+Então é melhor guardar o máximo de informação possível né?
+
+
+
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+<!--There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -114,7 +131,7 @@ end
 <dd>Green</dd>
 </dl>
 
-```
+```-->
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
