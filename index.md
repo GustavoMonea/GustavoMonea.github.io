@@ -17,7 +17,7 @@ Então é melhor guardar o máximo de informação possível né?
 
 
 
-[Link to another page](./another-page.html).
+[Mudei o Blog para o seguinte link:](https://www.gkmonea.com/).
 
 <!--There should be whitespace between paragraphs.
 
