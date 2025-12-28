@@ -1,1 +1,1 @@
-#  This blog (github page) use Midnight.
+#  This github page use Midnight.
