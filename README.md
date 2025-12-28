@@ -1,1 +1,1 @@
-#  This blog use Midnight theme ;)
+#  This blog (github page) use Midnight.
