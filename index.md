@@ -12,6 +12,8 @@ Além disso, para qualquer progresso a informação é tudo. E minha cabeça em 
 
 Então é melhor guardar o máximo de informação possível né?
 
+[Material de Microeconomia (UMESP)]([https://www.gkmonea.com/](https://gustavomonea.github.io/another-page)).
+
 <!--H(X) = - \sum_{i=1}^{n} p(x_i) \log_2 p(x_i)-->
 
 
