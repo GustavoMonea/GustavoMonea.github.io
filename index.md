@@ -16,7 +16,7 @@ Então é melhor guardar o máximo de informação possível né?
 
 
 
-
+<!---
 [Mudei o Blog para o seguinte link:](https://www.gkmonea.com/).
 
 <!--There should be whitespace between paragraphs.
