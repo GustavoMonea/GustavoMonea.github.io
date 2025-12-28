@@ -4,7 +4,7 @@ layout: default
 
 <!--#Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-Olá, fiz o seguinte blog para guardar as anotações de aula, em conjunto com alguns projetos no meu GitHub. Faz anos que elaboro algoritmos, faço dataviz, além dos materiais a respeito de varias disciplinas que sou docente. Basicamente, estou fazendo um backup do meu conhecimento na internet.
+Bem-vindo. Este blog foi criado para centralizar minhas anotações de aula e integrar projetos do meu GitHub. Com anos de experiência no desenvolvimento de algoritmos, visualização de dados e docência em diversas disciplinas, utilizo este espaço como um repositório digital para preservar e compartilhar meu conhecimento.
 
 Além disso, para qualquer progresso a informação é tudo. E minha cabeça em alguns momentos, tem a mesma resposta padrão do computador Multivac no conto de **Isaac Isamov** _"The Last Question"_ a respeito da **entropia**.
 
