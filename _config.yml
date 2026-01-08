@@ -1,5 +1,5 @@
-title: Gustavo Monea
-description: My home page ;).
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
